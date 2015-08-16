@@ -7,7 +7,7 @@ used HTML available to the file so that new projects
 can easily be started. 
 
 HTMLgold is free to use and will be managed and maintaned 
-by Bappy and his team. 
+by me and my team.
 
 Feel free to contribute, update and get in touch:
 
@@ -15,6 +15,8 @@ Cheers
 
 Bappy
 
+--------------------
+Bappy Golder
+Web: www.Bups.co
 Git: @BappyGolder
 Twitter: @BappyGolder
-Web: www.Bups.co
