@@ -8,19 +8,15 @@ https://guides.github.com/features/mastering-markdown/
 *Last Updated: 30 Nov 2015*
 
 ##About
-HTMLgold is a simple HTML project. The goal of the 
-project is to the make a small collection of commonly
-used HTML available to the file so that new projects
-can easily be started. 
+HTMLgold is a simple HTML project. The goal of the project is to the make a small collection of commonly used HTML available to the file so that new projects can easily be started. 
 
-HTMLgold is free to use and will be managed and maintaned 
-by me and my team.
+HTMLgold is free to use and will be managed and maintaned by me and my team.
 
-Feel free to contribute, update and get in touch:
+Feel free to contribute, update and get in touch.
 
 Cheers 
 
-Bappy
+Bappy (Buppy)
 
 ##Bappy Golder <br/>
 <a href="http://bappygolder.com/">Website</a>  |  <a href="https://github.com/bappygolder">LinkedIn</a> |  <a href="https://au.linkedin.com/in/bappygolder">Twitter</a>
