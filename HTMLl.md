@@ -18,9 +18,8 @@
 		<![endif]-->
 	</head>
 	
-	<body ng-app="todoListApp">
-		<script src="vendor/angular.js" type="text/javascript"></script>
-		<script src="scripts/app.js" type="text/javascript"></script>
+	<body>
+		
 	</body>
 </html>
 ```
