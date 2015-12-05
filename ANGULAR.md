@@ -6,7 +6,7 @@ https://guides.github.com/features/mastering-markdown/
 
 # Angular Templeting
 
-####Preparation
+#### Preparation
 1. Make ```scripts``` folder, if there not one already within the project.
 2. Create an ```app.js``` file. 
 3. Link the ```app.js``` file to appropriate HTML file. (i.e: index.html). Make sure this link goes directly after the ```angularJS link```. Like the following example:
@@ -14,12 +14,15 @@ https://guides.github.com/features/mastering-markdown/
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular.min.js"></script> 
 <script src="scripts/app.js" type="text/javascript"></script>
 ```
-
-####app.js file
 4. Create the application by declaring Angular's module method within the ```app.js``` file, like shown below:
 ```javascript
 angular.module("appName", []);
 ```
+5. Now tell the app where to bootstrap (start running), for example in the ```body``` tag. 
+```javascript
+<body ng-app="todoListApp">
+```
+
 
  
 
