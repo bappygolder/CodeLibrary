@@ -7,7 +7,7 @@ https://guides.github.com/features/mastering-markdown/
 # Angular Templeting
 
 #### Preparation
-- Include AngularJS to the projectt. To include through CDN: add the following code at the end of the body tag (just before the </body>):
+- Include AngularJS to the projectt. To include through CDN: add the following code at the end of the ```body``` tag (just before the </body>):
 ```HTML
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular.min.js"></script> 
 ```
