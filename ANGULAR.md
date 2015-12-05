@@ -16,7 +16,6 @@ https://guides.github.com/features/mastering-markdown/
 - Create an ```app.js``` file. 
 - Link the ```app.js``` file to appropriate HTML file. (i.e: index.html). Make sure this link goes directly after the ```angularJS link```. Like the following example:
 ```HTML
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular.min.js"></script> 
 <script src="scripts/app.js" type="text/javascript"></script>
 ```
 
@@ -27,7 +26,7 @@ angular.module("appName", []);
 
 - Now tell the app where to bootstrap (start running), for example in the ```body``` tag. 
 ```javascript
-<body ng-app="todoListApp">
+<body ng-app="appName">
 ```
 
 
