@@ -6,7 +6,7 @@ https://guides.github.com/features/mastering-markdown/
 
 # HTML Templeting
 
-#####Start New File
+####Start New File
 ```HTML
 <!doctype html>
 <html lang="en">
@@ -29,7 +29,7 @@ https://guides.github.com/features/mastering-markdown/
 </html>
 ```
 
-#####Include AngularJS
+####Include AngularJS
 Include in the ```<head></head>``` section
 ```HTML
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
@@ -38,7 +38,7 @@ Include in the ```<head></head>``` section
 
 <!--
 New sections:
-#####Start New File
+####Start New File
 ```HTML
 ```
 -->
