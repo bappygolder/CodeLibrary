@@ -1,10 +1,10 @@
-	<!--
+<!--
 GitHub Markdown System:
 https://help.github.com/articles/markdown-basics/
 https://guides.github.com/features/mastering-markdown/
 -->
 
-# Gold Library
+#Gold Library
 *Last Updated: 5 Dec 2015*
 
 ##Resources
