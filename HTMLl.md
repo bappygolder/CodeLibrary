@@ -30,7 +30,7 @@ https://guides.github.com/features/mastering-markdown/
 ```
 
 #####Include AngularJS
-Include in the <code>head</code> section
+Include in the head section
 ```HTML
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
 ```
