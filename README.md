@@ -14,7 +14,7 @@ HTMLgold is free to use and will be managed and maintaned by me and my team.
 
 Feel free to contribute, update and get in touch.
 
-<xmp>
+```HTML
    <!doctype html>
 	<html lang="en">
 	<head>
@@ -27,7 +27,7 @@ Feel free to contribute, update and get in touch.
 	  <script src="scripts/app.js" type="text/javascript"></script>
 	</body>
 	</html>
-</xmp>
+```
 
 Cheers 
 
