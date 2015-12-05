@@ -40,11 +40,6 @@ Include at the end of the body tag (just before the ```</body>```)
 Update the ```src=""``` [from the angularJS websit >>](https://angularjs.org/)<br/>
 [More angularJS code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/ANGULAR.md)
 
-####app.js file
-```javascript
-
-```
-
 <!--
 New sections:
 ####Start New File
