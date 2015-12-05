@@ -8,7 +8,7 @@ https://guides.github.com/features/mastering-markdown/
 *Last Updated: 30 Nov 2015*
 
 ##Resources
-<a href=""></a>
+<a href="">HTML</a> | <a href="">CSS</a>
 
 ##About
 HTMLgold is a simple HTML project. The goal of the project is to the make a small collection of commonly used HTML available to the file so that new projects can easily be started. 
