@@ -11,9 +11,9 @@ https://guides.github.com/features/mastering-markdown/
 <a href="https://github.com/bappygolder/HTML_Gold/blob/master/HTMLl.md">HTML</a>  |  CSS  |  JavaScript  |  <a href="https://github.com/bappygolder/HTML_Gold/blob/master/ANGULAR.md">Angular</a>
 
 ##About
-GoldLibrary is a simple project. The goal of the project is to the make a small collection of commonly used code that are used in all (or in almost all) projects. TMLgold is free to use and will be managed and maintaned by Bappy and team. 
+The goal of the project is to the make a small collection of commonly used code that are used in all (or in almost all) projects with different coding languages. GoldLibrary is free to use and will be managed and maintaned by Bappy and team. 
 
-Feel free to contribute, update and get in touch.
+Feel free to contribute, update and get in touch. WIP...
 
 Cheers 
 
