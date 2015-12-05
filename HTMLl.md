@@ -4,7 +4,6 @@
 ```HTML
 <!doctype html>
 <html lang="en">
-	
 	<head>
 	  <!-- Website Title -->
 		<title></title>
