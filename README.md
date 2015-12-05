@@ -5,7 +5,7 @@ https://guides.github.com/features/mastering-markdown/
 -->
 
 # HTML_Gold: ReadMe
-*Last Updated: 30 Nov 2015*
+*Last Updated: 5 Dec 2015*
 
 ##Resources
 <a href="https://github.com/bappygolder/HTML_Gold/blob/master/HTMLl.md">HTML</a>  |  CSS  |  JavaScript
