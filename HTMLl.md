@@ -1,6 +1,6 @@
 # HTML Templeting
 
-## Start New File
+### Start New File
 ```HTML
 <!doctype html>
 <html lang="en">
