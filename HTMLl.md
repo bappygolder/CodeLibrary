@@ -1,14 +1,23 @@
 # HTML Templeting
 
-## Start HTML
+## Start New File
 ```HTML
 <!doctype html>
 <html lang="en">
+	
 	<head>
+	  <!-- Website Title -->
 		<title></title>
-		<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-		<link href='styles/main.css' rel='stylesheet' type="text/css">
+		
+	  <!-- Style sheet link/s -->
+		<link rel='stylesheet' href='styles/main.css' type="text/css?v=1.0">
+		
+	  <!-- Code For IE -->	
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 	</head>
+	
 	<body ng-app="todoListApp">
 		<script src="vendor/angular.js" type="text/javascript"></script>
 		<script src="scripts/app.js" type="text/javascript"></script>
