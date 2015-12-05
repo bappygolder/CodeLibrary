@@ -19,7 +19,7 @@ Feel free to contribute, update and get in touch.
 
 Cheers 
 
-Bappy (Buppy)
+**Bappy** (Buppy)
 
 ##Bappy Golder <br/>
 <a href="http://bappygolder.com/">Website</a>  |  <a href="https://github.com/bappygolder">LinkedIn</a> |  <a href="https://au.linkedin.com/in/bappygolder">Twitter</a>
