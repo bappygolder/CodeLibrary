@@ -39,12 +39,29 @@ To create a new directive in a new file:
 
 ```JavaScript
 angular.module('appName')
-.directive('directiveNameInCamelCase', function(){
+.directive('directiveName', function(){
 	return{
 		template: "This is the Hello World directive",
 	};           
 });
 ```
+
+- Then introduce/call the directive within the app's HTML in one of the following 2 ways:
+
+Introduce as a HTML ```tag```:
+```JavaScript
+<directive-name></directive-name>
+```
+
+or
+
+Introduce as a HTML ```attribute```:
+```JavaScript
+<div directive-name></div>
+``` 
+
+*Note: Directives names are given in **CamelCase** when it is initialized and **dash-seperated** when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
+
 
 
 
