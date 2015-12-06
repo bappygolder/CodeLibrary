@@ -4,7 +4,7 @@ https://help.github.com/articles/markdown-basics/
 https://guides.github.com/features/mastering-markdown/
 -->
 
-# HTML Templeting
+# HTML Templete & Snippets
 
 ####Start New File
 ```HTML
