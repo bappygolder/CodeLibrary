@@ -48,7 +48,7 @@ To create a new directive in a new file:
 angular.module('appName')
 .directive('directiveName', function(){
 	return{
-		template: "This is the Hello World directive",
+		template: "This is the Hello World directive"
 	};           
 });
 ```
