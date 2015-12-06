@@ -35,6 +35,12 @@ To create a new directive in a new file:
 
 *Note: Take caution for naming convention in AngularJS. Use ```dash-seperated.file```  name.*
 
+- Connect the directive to the relavant HTML file, i.e: ```index.html```. Make sure the link is added at the bottom of the file after the other source links:
+
+```JavaScript
+<script src="diretive-location.js" type="text/javascript"></script> 
+```
+
 - Then use the following tempate within the new file to create a new directive
 
 ```JavaScript
