@@ -12,7 +12,7 @@ https://guides.github.com/features/mastering-markdown/
 - <a href="https://github.com/bappygolder/HTML_Gold/blob/master/css.md">CSS</a>  
 - JavaScript  
 - <a href="https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md">jQuery</a>  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/ANGULAR.md">Angular</a>
+- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/AngularJS.md">AngularJS</a>
 
 ##About
 The goal of this project is to the make a small collection of commonly used code available for different coding languages, so that you can copy and paste code within your project to get started with a new project fast. SnippetLib is free to use and will be managed and maintaned by Bappy and team. Lot of the coding pattern and formatting style follows Bappy's personal code prefferences. 
