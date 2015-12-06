@@ -31,7 +31,7 @@ angular.module("appName", []);
 
 ### Create New Directive
 To create a new directive in a new file:
-- Create a new file within the ```source``` folder name it the same name as the directive. i.e: ```hello-world.js```.<br>
+- Create a new file within the ```source``` folder name it the same name as the directive. i.e: ```directive-name.js```.<br>
 
 *Note: Take caution for naming convention in AngularJS. Use dash elemenated file name.*
 
