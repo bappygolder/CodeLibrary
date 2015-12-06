@@ -10,9 +10,7 @@ https://guides.github.com/features/mastering-markdown/
 ##About
 The goal of this project is to the make a small collection of commonly used code available for different coding languages, so that you can copy and paste code within your project to get started with a new project fast. SnippetLib is free to use and will be managed and maintaned by Bappy and team. Lot of the coding pattern and formatting style follows Bappy's personal code prefferences. 
 
-Click on each of the .md files ```(i.e: HTML.md)``` to use various code snippets. 
-
-Feel free to contribute, update and get in touch. Work In Progress...
+Click on each of the .md files above ```(i.e: HTML.md)``` to use various code snippets. Feel free to contribute, update and get in touch. Work In Progress...
 
 Cheers 
 
