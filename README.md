@@ -8,10 +8,10 @@ https://guides.github.com/features/mastering-markdown/
 *ReadMe Last Updated: 6 Dec 2015*
 
 ##Resources
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/html.md">HTML</a>  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/css.md">CSS</a>  
+- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/HTMLl.md">HTML</a>  
+- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/CSS.md">CSS</a>  
 - JavaScript  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md">jQuery</a>  
+- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/jQuery.md">jQuery</a>  
 - <a href="https://github.com/bappygolder/HTML_Gold/blob/master/AngularJS.md">AngularJS</a>
 
 ##About
