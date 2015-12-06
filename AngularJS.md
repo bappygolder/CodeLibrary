@@ -38,7 +38,8 @@ To create a new directive in a new file:
 - Connect the directive to the relavant HTML file, i.e: ```index.html```. Make sure the link is added at the bottom of the file after the other source links:
 
 ```JavaScript
-<script src="diretive-location.js" type="text/javascript"></script> 
+  <!--Angular Directive/s-->
+		<script src="diretive-location.js" type="text/javascript"></script> 
 ```
 
 - Then use the following tempate within the new file to create a new directive
@@ -66,7 +67,7 @@ Introduce as a HTML ```attribute```:
 <div directive-name></div>
 ``` 
 
-*Note: Directives names are given in **CamelCase** when it is initialized and **dash-seperated** when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
+*Note: Directives names are given in ```CamelCase``` when it is initialized and ```dash-seperated``` when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
 
 
 
