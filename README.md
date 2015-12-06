@@ -5,7 +5,7 @@ https://guides.github.com/features/mastering-markdown/
 -->
 
 #SnippetLib - Code Snippet Library
-*Last Updated: 5 Dec 2015*
+*ReadMe Last Updated: 6 Dec 2015*
 
 ##Resources
 - <a href="https://github.com/bappygolder/HTML_Gold/blob/master/html.md">HTML</a>  
