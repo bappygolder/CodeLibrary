@@ -7,17 +7,10 @@ https://guides.github.com/features/mastering-markdown/
 #SnippetLib - Code Snippet Library
 *ReadMe Last Updated: 6 Dec 2015*
 
-##Resources
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/HTMLl.md">HTML</a>  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/CSS.md">CSS</a>  
-- JavaScript  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/jQuery.md">jQuery</a>  
-- <a href="https://github.com/bappygolder/HTML_Gold/blob/master/AngularJS.md">AngularJS</a>
-
 ##About
 The goal of this project is to the make a small collection of commonly used code available for different coding languages, so that you can copy and paste code within your project to get started with a new project fast. SnippetLib is free to use and will be managed and maintaned by Bappy and team. Lot of the coding pattern and formatting style follows Bappy's personal code prefferences. 
 
-Click on the links under the *Resources* above to use various code snippets. 
+Click on each of the .md files ```(i.e: HTML.md)``` to use various code snippets. 
 
 Feel free to contribute, update and get in touch. Work In Progress...
 
