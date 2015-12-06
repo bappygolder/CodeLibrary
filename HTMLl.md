@@ -35,7 +35,8 @@ https://guides.github.com/features/mastering-markdown/
 ####Include jQuery
 Include at the end of the body efore any other ```source``` tags.
 ```javascript
-<script <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>      
+  <!--jQuery CDN link-->
+  	<script <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>    
 ```
 [More jQuery code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md)
 [jQuery Website](https://jquery.com/download/)
