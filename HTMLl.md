@@ -32,6 +32,14 @@ https://guides.github.com/features/mastering-markdown/
 </html>
 ```
 
+####Include jQuery
+Include at the end of the body efore any other ```source``` tags.
+```javascript
+<script <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>      
+```
+[More jQuery code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md)
+[jQuery Website](https://jquery.com/download/)
+
 ####Include AngularJS
 Include at the end of the body tag (just before the ```</body>```)
 ```javascript
@@ -39,12 +47,6 @@ Include at the end of the body tag (just before the ```</body>```)
 ```
 Update the ```src=""``` [from the angularJS websit >>](https://angularjs.org/)<br/>
 [More angularJS code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/ANGULAR.md)
-
-####Include jQuery
-```javascript
-<script <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>      
-```
-[More jQuery code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md)
 
 <!--
 New sections:
