@@ -67,7 +67,7 @@ Introduce as a HTML ```tag```:
 <directive-name></directive-name>
 ```
 
-***Note**: Directives names are given in ```CamelCase``` when it is initialized and ```dash-seperated``` when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
+**Note**: Directives names are given in ```CamelCase``` when it is initialized and ```dash-seperated``` when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
 
 
 
