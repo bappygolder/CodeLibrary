@@ -29,6 +29,25 @@ angular.module("appName", []);
 <body ng-app="appName">
 ```
 
+### Create New Directive
+To create a new directive in a new file:
+- Create a new file within the ```source``` folder name it the same name as the directive. i.e: ```hello-world.js```.<br>
+
+*Note: Take caution for naming convention in AngularJS. Use dash elemenated file name.*
+
+- Then use the following tempate within the new file to create a new directive
+
+```JavaScript
+angular.module('appName')
+.directive('directiveNameInCamelCase', function(){
+	return{
+		template: "This is the Hello World directive",
+	};           
+});
+```
+
+
+
 
  
 
@@ -38,6 +57,6 @@ angular.module("appName", []);
 <!--
 New sections:
 ###Start New File
-```HTML
+```JavaScript
 ```
 -->
