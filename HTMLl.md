@@ -40,6 +40,13 @@ Include at the end of the body tag (just before the ```</body>```)
 Update the ```src=""``` [from the angularJS websit >>](https://angularjs.org/)<br/>
 [More angularJS code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/ANGULAR.md)
 
+####Include jQuery
+```HTML
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular.min.js"></script>        
+```
+Update the ```src=""``` [from the angularJS websit >>](https://angularjs.org/)<br/>
+[More jQuery code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md)
+
 <!--
 New sections:
 ####Start New File
