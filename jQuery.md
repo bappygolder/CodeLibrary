@@ -33,16 +33,18 @@ The following are general workflow for adding jQuery plugins for many plugins (b
 
 1. Attach the ```CSS file``` before the main ```CSS file```.
 
-```html
-<link rel='stylesheet' href='styles/main.css' type="text/css">
-```
+  ```html
+  <link rel='stylesheet' href='styles/main.css' type="text/css">
+  ```
 
 2. Attach jQuery if not attached already prior any other ```script``` tags right before the ```</body>``` section.
 3. Attach the plugin's JavaScript file. For example:
-```javascript
-  <!--jQuery link-->
-    <script src="Project-Source/scripts/plugin/plugin-source.js"></script> 
-```
+
+  ```javascript
+    <!--jQuery link-->
+      <script src="Project-Source/scripts/plugin/plugin-source.js"></script> 
+  ```
+
 4. Structure the ```html``` as required for the plugin's need. See documentation.
 5. Add necessary custom javascript. (Best to use an external JavaScript file).
 6. Select an HTML on the page using ```jQuery```.
