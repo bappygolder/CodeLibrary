@@ -29,6 +29,11 @@ Include jQuery using a Content Delivary Netrowk (CDN)
 [jQuery Website](https://jquery.com/download/)
 
 #### General workflow for adding jQuery plugins
+1. Attach Files
+2. Structure the ```HTML```
+3. Add programming
+
+#### Commonly used workflow with code:
 The following are general workflow for adding jQuery plugins for many plugins (but not all)
 
 1. Attach the ```CSS file``` before the main ```CSS file```.
