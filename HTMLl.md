@@ -41,7 +41,7 @@ Directly include jQuery within the project:
 - Linke the source file to the ```HTML``` file
 ```javascript
   <!--jQuery link-->
-    <script <script src="Project-Source/scripts/jquery-1.11.3.min.js"></script>    
+    <script src="Project-Source/scripts/jquery-1.11.3.min.js"></script>    
 ```
 
 or
