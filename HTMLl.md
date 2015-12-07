@@ -6,7 +6,7 @@ https://guides.github.com/features/mastering-markdown/
 
 # HTML Templete & Snippets
 
-####Start New File
+#### Start New File
 ```HTML
 <!doctype html>
 <html lang="en">
@@ -32,16 +32,29 @@ https://guides.github.com/features/mastering-markdown/
 </html>
 ```
 
-####Include jQuery
-Include at the end of the body before any other ```source``` tags.
+#### Include jQuery
+Include at the end of the body before any other ```source``` links in either of the following way:
+
+Directly include jQuery within the project:
+- [Download](https://jquery.com/download/) the latest jQuery minified file.
+- Add the file within the ```source``` folder of the project
+- Linke the source file to the ```HTML``` file
+```javascript
+  <!--jQuery link-->
+    <script <script src="Project-Source/scripts/jquery-1.11.3.min.js"></script>    
+```
+
+or
+
+Include jQuery using a Content Delivary Netrowk (CDN)
 ```javascript
   <!--jQuery CDN link-->
   	<script <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>    
 ```
-[More jQuery code help >>](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md)
+[More jQuery code help](https://github.com/bappygolder/HTML_Gold/blob/master/jquery.md) | 
 [jQuery Website](https://jquery.com/download/)
 
-####Include AngularJS
+#### Include AngularJS
 Include at the end of the body tag (just before the ```</body>```)
 ```javascript
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-beta.2/angular.min.js"></script>        
