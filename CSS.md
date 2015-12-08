@@ -58,12 +58,12 @@ Media Queries
 --------------------------------------------------*/
 
 /*If screen is bigger than 500*/
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
 
 }
 
 /*If screen is smaller than 500*/
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
 
 }
 
