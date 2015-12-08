@@ -57,15 +57,6 @@ Fonts & Typography
 Media Queries
 --------------------------------------------------*/
 
-
-/*end: Media Queries
---------------------------------------------------*/
-
-
-/*--------------------------------------------------
-normalize.css: Downloaded: 1 Dec 2015
---------------------------------------------------*/
-
 /*If screen is bigger than 500*/
 @media screen and (min-width: 480px) {
 
@@ -75,6 +66,15 @@ normalize.css: Downloaded: 1 Dec 2015
 @media screen and (max-width: 480px) {
 
 }
+
+/*end: Media Queries
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+normalize.css: Downloaded: 1 Dec 2015
+--------------------------------------------------*/
+
 
 
 /*end: Fonts & Typography
