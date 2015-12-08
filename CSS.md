@@ -66,6 +66,16 @@ Media Queries
 normalize.css: Downloaded: 1 Dec 2015
 --------------------------------------------------*/
 
+/*If screen is bigger than 500*/
+@media screen and (min-width: 480px) {
+
+}
+
+/*If screen is smaller than 500*/
+@media screen and (max-width: 480px) {
+
+}
+
 
 /*end: Fonts & Typography
 --------------------------------------------------*/
