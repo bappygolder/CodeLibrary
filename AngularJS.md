@@ -69,6 +69,25 @@ Introduce as a HTML ```tag```:
 
 **Note**: Directives names are given in ```CamelCase``` when it is initialized and ```dash-seperated``` when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
 
+### Create a new app with an initial controller and a simple function
+
+Step 1: Create the basic app
+```JavaScript
+angular.module("todoListApp", [])
+.controller('mainCtrl', function($scope){
+
+});
+```
+
+Step 2: Introduce a new function
+```JavaScript
+angular.module("todoListApp", [])
+.controller('mainCtrl', function($scope){
+  $scope.helloworld = function(){
+    console.log("Hello there this is the helloworld controller function in the main Ctrl!");
+  };
+});
+```
 
 
 <!--
