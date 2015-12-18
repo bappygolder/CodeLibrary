@@ -86,9 +86,10 @@ Introduce as a HTML ```tag```:
 Step 1: Create the basic app
 ```JavaScript
 angular.module("todoListApp", [])
-.controller('mainCtrl', function($scope){
-
-});
+  .controller('mainCtrl', function($scope){
+  
+  }
+);
 ```
 
 Step 2: Introduce a new function
