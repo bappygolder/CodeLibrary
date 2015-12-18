@@ -89,6 +89,23 @@ angular.module("todoListApp", [])
 });
 ```
 
+### Introducing Controllers
+Best practice is to introduce the controller inside a function like bilow:
+
+```JavaScript
+(function() {
+    'use strict';
+
+    angular.module('oTask', [
+        'ui.router'
+    ])
+    
+		.controller. . .
+
+
+})();
+```
+
 
 <!--
 New sections:
