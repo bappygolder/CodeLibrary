@@ -106,6 +106,16 @@ Best practice is to introduce the controller inside a function like bilow:
 })();
 ```
 
+### Helpful Tools
+
+Some browser plugins can help with Angular development. Search on your native development browser (i.e: Chrome, FireFox) for latest Angular development plugins or browser extentions. Some Helpful plugins are:
+
+#### Chrome:
+- [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
+- [ng-inspector for AngularJS](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
+
+#### FireFox:
+- AngScope [Tools > Plugins (then search for AngScope)]
 
 <!--
 New sections:
