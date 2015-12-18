@@ -89,7 +89,7 @@ angular.module("todoListApp", [])
 });
 ```
 
-### Introducing Controllers
+### Introducing Controllers With Best Practices
 Best practice is to introduce the controller inside a function like bilow:
 
 ```JavaScript
