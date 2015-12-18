@@ -72,12 +72,14 @@ Introduce as a HTML ```tag```:
 ### Controller Template
 
 ```JavaScript
-.controller('controllerNameCtrl', function($scope){
-	$scope.someVariable = fucntion(){
-		//some function
-	}
-});
+  .controller('controllerNameCtrl', function($scope){
+    $scope.someVariable = fucntion(){
+      //some function
+    }
+  });
 ```
+
+**Note:** By convention ```controllerName``` ends with ```Ctrl```.
 
 ### Create a new app with an initial controller and a simple function
 
