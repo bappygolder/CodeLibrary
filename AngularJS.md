@@ -69,6 +69,16 @@ Introduce as a HTML ```tag```:
 
 **Note**: Directives names are given in ```CamelCase``` when it is initialized and ```dash-seperated``` when used within HTML. So a direcitve named ```testDirective``` becomes ```test-directive```*
 
+### Controller Template
+
+```JavaScript
+.controller('controllerNameCtrl', function($scope){
+	$scope.someVariable = fucntion(){
+		//some function
+	}
+});
+```
+
 ### Create a new app with an initial controller and a simple function
 
 Step 1: Create the basic app
@@ -110,11 +120,11 @@ Best practice is to introduce the controller inside a function like bilow:
 
 Some browser plugins can help with Angular development. Search on your native development browser (i.e: Chrome, FireFox) for latest Angular development plugins or browser extentions. Some Helpful plugins are:
 
-#### Chrome:
+##### Chrome:
 - [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
 - [ng-inspector for AngularJS](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
 
-#### FireFox:
+##### FireFox:
 - AngScope [Tools > Plugins (then search for AngScope)]
 
 <!--
