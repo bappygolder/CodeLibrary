@@ -130,6 +130,9 @@ Some browser plugins can help with Angular development. Search on your native de
 ##### FireFox:
 - AngScope [Tools > Plugins (then search for AngScope)]
 
+### Additional Resources
+- [Angular StyleGuide](https://github.com/johnpapa/angular-styleguide#style-y021)
+
 <!--
 New sections:
 ###Start New File
