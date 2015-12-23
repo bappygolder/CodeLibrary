@@ -28,6 +28,8 @@ You are now ready to start learniing and using Git, GitHub & GitHub Desktop.
 #### The ```GitHub Desktop``` not syncking properly
 1. Check if your console is open. Close it and try again.  
 
+#### Syncking fails
+If the project is placed in a server (i.e: xampp) check to make sure the server is running and try again. Before running xampp make sure skype is closed first. 
 
 Work In Progress . . .
 
