@@ -4,6 +4,10 @@ https://help.github.com/articles/markdown-basics/
 https://guides.github.com/features/mastering-markdown/
 -->
 
+##About
+If you don't know how to use Git then [use this course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) first to learn Git before continuing. 
+
+
 #Learn-GitHub-Desktop
 
 ##About
