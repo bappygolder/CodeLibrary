@@ -15,7 +15,7 @@ https://guides.github.com/features/mastering-markdown/
 			<title></title>
 		
 	  <!-- Style sheet link/s -->
-		    <link rel="stylesheet" href="ormalize.css" type="text/css"> <!--minified normzlized.css-->
+		    <link rel="stylesheet" href="normalize.css" type="text/css"> <!--minified normzlized.css-->
 			<link rel="stylesheet" href="style.css" type="text/css">
 
 	  <!-- Fonts -->
