@@ -75,6 +75,7 @@ Media Queries
 normalize.css: Downloaded: 1 Dec 2015
 --------------------------------------------------*/
 
+/*put it in a different CSS file*/
 
 
 /*end: Fonts & Typography
