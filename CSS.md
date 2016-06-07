@@ -78,7 +78,7 @@ normalize.css: Downloaded: 1 Dec 2015
 /*put it in a different CSS file*/
 
 
-/*end: Fonts & Typography
+/*end: normalize.css:
 --------------------------------------------------*/
 ```
 - Add minified version of ```normalize.css```. [Normalzie Website](https://necolas.github.io/normalize.css/3.0.2/normalize.css)  |  [Minification](http://csscompressor.com/)
