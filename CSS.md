@@ -57,12 +57,18 @@ Fonts & Typography
 Media Queries
 --------------------------------------------------*/
 
-/*If screen is bigger than 500*/
+/*If screen is bigger than given size below*/
 @media screen and (min-width: 500px) {
 
 }
 
-/*If screen is smaller than 500*/
+/*If screen is smaller than given size below*/
+/*try not use the following media query. Our goal
+is to go from small to large (mobile first or small 
+screen first.) So we don't usually want to apply 
+styles for screens when they are smaller than something
+we rather want to target something when screen gets
+bigger. */
 @media screen and (max-width: 500px) {
 
 }
