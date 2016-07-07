@@ -19,7 +19,7 @@ https://guides.github.com/features/mastering-markdown/
 			<link rel="stylesheet" href="style.css" type="text/css">
 
 	  <!-- Fonts -->
-			<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel='stylesheet' type='text/css'>
+			<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
 		
 	  <!-- IE Fix -->	
 			<!--[if lt IE 9]>
