@@ -1,3 +1,6 @@
+<!--MarkDown Editor (use for live preview): 
+https://jbt.github.io/markdown-editor-->
+
 <!--
 	GitHub Markdown System:
 	https://help.github.com/articles/markdown-basics/
