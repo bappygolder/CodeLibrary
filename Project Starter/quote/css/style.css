@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*--------------------------------------------------
+Global CSS
+--------------------------------------------------*/
+* {
+    box-sizing:border-box;
+}
+
+/*end: Global CSS
+--------------------------------------------------*/
+
+
+
+
+/*--------------------------------------------------
+Structure
+--------------------------------------------------*/
+.main-wrapper {
+	max-width: 500px;
+	margin: auto;
+	/*padding: 50px;*/ /*good for bigger screen*/
+}
+
+.question_mark{
+	    width: 104%;
+	float: right;
+	padding-left: 96%;
+}
+
+.header_wrapper {
+	/*background:#0B73EF; */	/*test*/
+	
+    max-width: 265px;
+    padding: 10px 10%;
+    margin: 0 auto;
+}
+
+button, input {
+	width: 200px;
+    height: 32px;
+    font-size: 14px;
+    border: none;
+}
+
+input {
+	margin-bottom: 5px;
+	padding:5px;
+	text-align: center;
+	border: 0px solid;
+}
+
+.num_table_view{
+    /*background: rebeccapurple;*/  	/*test*/
+    max-width: 140px;
+    margin: 0 auto;
+}
+
+
+/*end: Structure
+--------------------------------------------------*/
+
+
+
+
+/*--------------------------------------------------
+Colors
+--------------------------------------------------*/
+.main-wrapper,
+header{
+	background:#ECEAEA;
+	transition: 1s;	
+
+}
+
+.is-sticky header {
+	background: rgba(31, 82, 161, 0.92);
+	
+}
+
+input {
+	color:#666565;
+}
+
+p {
+	color:#707070;
+}
+
+button {
+	background: #28ca0c;
+    color: white;
+}
+
+
+/*end: Colors
+--------------------------------------------------*/
+
+
+
+
+/*--------------------------------------------------
+Fonts & Typography
+--------------------------------------------------*/
+
+
+/*end: Fonts & Typography
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+Media Queries
+--------------------------------------------------*/
+
+/*If screen is bigger than given size below*/
+@media screen and (min-width: 500px) {
+
+}
+
+/*If screen is smaller than given size below*/
+/*try not use the following media query. Our goal
+is to go from small to large (mobile first or small 
+screen first.) So we don't usually want to apply 
+styles for screens when they are smaller than something
+we rather want to target something when screen gets
+bigger. */
+@media screen and (max-width: 500px) {
+
+}
+
+/*end: Media Queries
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+normalize.css: Downloaded: 1 Dec 2015
+--------------------------------------------------*/
+
+/*put it in a different CSS file*/
+
+
+/*end: normalize.css:
+--------------------------------------------------*/
