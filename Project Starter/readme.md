@@ -23,7 +23,20 @@ Feel free to suggest or add new things.
 
 Perhaps we can work towards creating a solution where users can click and choose what they want included in their project starter and we can customize the project before they download and get stared. 
 
+
 ## What's In The Project
+
+
+### CSS Files
+ -
+ -
+ -
+ 
+ ### JavaScrip Files
+ -
+ -
+ -
+ 
 
 This section will be updated soon.
 
