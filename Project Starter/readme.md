@@ -29,7 +29,11 @@ Perhaps we can work towards creating a solution where users can click and choose
 
 ### CSS Files
 
-#### [normalize.css](#)
+#### [normalize.css](https://necolas.github.io/normalize.css/)
+
+We are including the minified version of the Normalize.css. 
+Last updated: 21 Nov 2016
+
 #### [animsition](#)
 #### [slick](#)
 #### [style.css](#)
