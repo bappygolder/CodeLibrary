@@ -6,8 +6,7 @@ Global CSS
 --------------------------------------------------*/
 * {
     box-sizing:border-box;
-	background-color: chocolate;	
-	color: white;
+	background-color:#E1E1E1; /*temporary [remove]*/
 }
 
 /*end: Global CSS
@@ -30,9 +29,7 @@ Structure
 /*--------------------------------------------------
 Colors
 --------------------------------------------------*/
-html {
-		
-}
+
 
 /*end: Colors
 --------------------------------------------------*/

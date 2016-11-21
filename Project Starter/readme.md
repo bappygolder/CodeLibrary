@@ -2,6 +2,8 @@
 
 This folder contains a brand new website starter project. This folder gives a quick start to new website/web projects. 
 
+## Resources
+- [Mark Down Editor](https://jbt.github.io/markdown-editor) (To edit this document)
 
 ## Getting Started / Usage
 
