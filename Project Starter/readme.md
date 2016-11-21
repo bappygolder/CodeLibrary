@@ -34,7 +34,7 @@ Perhaps we can work towards creating a solution where users can click and choose
  -
  -
  
- ### JavaScrip Links
+### JavaScrip Links
 
 #### [jQuery](https://jquery.com/)
 
@@ -49,7 +49,7 @@ The first 2 links in the `index.html` file are links to jQuery files. One from t
  ```
  We are laeving both in the project for users to choose which one they want to use. Remove one of them for actual project. 
  
- #### [animsition](http://git.blivesta.com/animsition/)
+#### [animsition](http://git.blivesta.com/animsition/)
  
 Animsition adds smooth animation & transaction effects during page load
 
