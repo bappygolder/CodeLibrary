@@ -26,6 +26,9 @@ Perhaps we can work towards creating a solution where users can click and choose
 
 ## What's In The Project
 
+### Font Links
+
+An example of Google font (Lato) is included.
 
 ### CSS Files
 
