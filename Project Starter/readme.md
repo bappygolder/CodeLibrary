@@ -32,7 +32,8 @@ Perhaps we can work towards creating a solution where users can click and choose
 #### [normalize.css](https://necolas.github.io/normalize.css/)
 
 We are including the minified version of the Normalize.css. 
-Last updated: 21 Nov 2016
+
+Last updated: **21 Nov 2016**
 
 #### [animsition](#)
 #### [slick](#)
@@ -57,13 +58,33 @@ The first 2 links in the `index.html` file are links to jQuery files. One from t
  
 Animsition adds smooth animation & transaction effects during page load
 
-**To remove:** Remove Animsition related CSS links, JavaScript links and the Animsition folder:
-
-`js_and_plugins > animsition`
-
 #### [sticky](#)
 #### [slick](#)
 #### [main.js](#)
+
+## How to remove things
+
+### jQuery
+
+Most project requires jQuery so usually we wouldn't need to remove jQuery. However we have 2 different sources of jQuery included. So remove only one source. 
+
+To remove the CDN 
+- Remove the link.
+
+To remove the locally hosted file
+- Remove the link
+- Remove the file located in `js_and_plugins`
+
+### Normalize.css
+### Animsition
+
+- Remove Animsition CSS link
+- Remove Animsition Script link
+- Remove Animsition folder from `js_and_plugins > animsition`
+
+
+**To remove:** Remove Animsition related CSS links, JavaScript links and the 
+### Slick
 
 ## Resources
 - [Mark Down Editor](https://jbt.github.io/markdown-editor) (To edit this document)
