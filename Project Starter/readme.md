@@ -30,9 +30,9 @@ Perhaps we can work towards creating a solution where users can click and choose
 ### CSS Files
 
 #### [normalize.css](#)
-### [animsition](#)
-### [slick](#)
-### [style.css](#)
+#### [animsition](#)
+#### [slick](#)
+#### [style.css](#)
  
 ### JavaScrip Links
 
