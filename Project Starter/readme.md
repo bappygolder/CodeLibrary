@@ -2,14 +2,12 @@
 
 This folder contains a brand new website starter project. This folder gives a quick start to new website/web projects. 
 
-## Resources
-- [Mark Down Editor](https://jbt.github.io/markdown-editor) (To edit this document)
-
 ## Getting Started / Usage
 
-- Download the project
-- Remove this document named ` readme.md ` and located in the project root
-- Start coading
+1. Download the project
+2. Remove this document named ` readme.md ` and located in the project root
+3. Remove anything else that you don't want in the project. See **What's In The Project** section for more.
+4. Start coading
 
 
 ## The Vision
@@ -47,7 +45,7 @@ The first 2 links in the `index.html` file are links to jQuery files. One from t
 	<script src="js_and_plugins/jquery-3.1.1.min.js"></script> <!--jQuery local: use local or CDN remove the other-->
 
  ```
- We are laeving both in the project for users to choose which one they want to use. Remove one of them for actual project. 
+ We are leaving both in the project for users to choose which one they want to use. Remove one of them for actual project. 
  
 #### [animsition](http://git.blivesta.com/animsition/)
  
@@ -60,5 +58,8 @@ Animsition adds smooth animation & transaction effects during page load
 #### [sticky](#)
 #### [slick](#)
 #### [main.js](#)
+
+## Resources
+- [Mark Down Editor](https://jbt.github.io/markdown-editor) (To edit this document)
 
 WIP... 
