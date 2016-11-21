@@ -32,11 +32,15 @@ Perhaps we can work towards creating a solution where users can click and choose
 #### [normalize.css](https://necolas.github.io/normalize.css/)
 
 We are including the minified version of the Normalize.css. 
-
 Last updated: **21 Nov 2016**
 
 #### [animsition](#)
-#### [slick](#)
+#### [slick](http://kenwheeler.github.io/slick/)
+
+Slick adds two different CSS files. 
+- `slick.css` is the main css file for the plugin.
+- `slick-theme.css` controls various UI elements.
+
 #### [style.css](#)
  
 ### JavaScrip Links
@@ -59,7 +63,9 @@ The first 2 links in the `index.html` file are links to jQuery files. One from t
 Animsition adds smooth animation & transaction effects during page load
 
 #### [sticky](#)
-#### [slick](#)
+#### [slick](http://kenwheeler.github.io/slick/)
+
+
 #### [main.js](#)
 
 ## How to remove things
@@ -84,6 +90,7 @@ To remove the locally hosted file
 
 
 **To remove:** Remove Animsition related CSS links, JavaScript links and the 
+
 ### Slick
 
 ## Resources
