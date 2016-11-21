@@ -10,7 +10,7 @@ This folder contains a brand new website starter project. This folder gives a qu
 4. Start coading
 
 
-## The Vision
+## Vision
 
 - The goal of this folder is to have all the necessary files, folder structure and plugins included and ready to use. 
 - The user will simply have to remove unnecessary files, folders and plugins to get started. 
@@ -28,9 +28,11 @@ Perhaps we can work towards creating a solution where users can click and choose
 
 
 ### CSS Files
- -
- -
- -
+
+#### [normalize.css](#)
+### [animsition](#)
+### [slick](#)
+### [style.css](#)
  
 ### JavaScrip Links
 
