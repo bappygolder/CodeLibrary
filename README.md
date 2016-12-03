@@ -8,7 +8,7 @@ https://guides.github.com/features/mastering-markdown/
 -->
 
 #SnippetLib - Code Snippet Library
-*ReadMe Last Updated: 8 Dec 2015*
+*ReadMe Last Updated: 3 Dec 2016*
 
 ## Project Starter
 We've now created the project starter folder. This contains everthing to get the project started. No need to read through various documentations and copying and pasting. [Here's the link](https://github.com/bappygolder/CodeLibrary/tree/master/Project%20Starter) to project starter.  
