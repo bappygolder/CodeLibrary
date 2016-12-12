@@ -5,8 +5,9 @@
 Global CSS
 --------------------------------------------------*/
 * {
-    box-sizing:border-box;
-	background-color:#E1E1E1; /*temporary [remove]*/
+    box-sizing: border-box;		
+	transition: .25s;			/*adds a moderate transition to all changes to the site*/
+	background-color:#E1E1E1; 	/*temporary [remove]*/
 }
 
 /*end: Global CSS
